@@ -38,7 +38,6 @@ class ViewController: UIViewController, XMLParserDelegate {
         super.viewDidLoad()
         
         host = "https://sandbox3.payture.com/"
-        
     }
 
 
