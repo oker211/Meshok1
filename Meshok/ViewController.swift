@@ -78,6 +78,7 @@ class ViewController: UIViewController, XMLParserDelegate {
                    sendBlock()
           }
     }
+    //
     
     @IBAction func payButton(_ sender: UIButton) {
         
